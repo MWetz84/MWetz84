@@ -8,8 +8,7 @@ automation**.
 
 ### ✨ Featured Project
 
-#### [dbt Cinema
-Analytics](https://github.com/MWetz84/dbt-cinema-analytics)
+#### [dbt Cinema Analytics](https://github.com/MWetz84/dbt-cinema-analytics)
 A comprehensive dbt project demonstrating advanced data engineering and
 analytics skills. This pipeline analyzes cinema performance, integrating
 diverse data sources to provide key profitability (Profit, ROI) and
