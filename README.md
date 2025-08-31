@@ -6,7 +6,7 @@ Currently, I’m expanding my **data analytics portfolio**—stay tuned for
 projects that showcase **real-world problem-solving, data storytelling, and
 automation**.
 
-### ✨ Featured Project
+### ✨ Featured Projects
 
 #### [dbt Cinema Analytics](https://github.com/MWetz84/dbt-cinema-analytics)
 A comprehensive dbt project demonstrating advanced data engineering and analytics skills. This pipeline analyzes cinema performance, integrating diverse data sources to provide key profitability (Profit, ROI) and efficiency metrics. Features include a layered dbt architecture, custom generic tests for data quality (composite keys), and end-to-end data modeling from raw sources to a final analytics mart.
